@@ -8,4 +8,4 @@
   - Artificial Intelligence
 
 ## Images
-![Profile Picture](images/Profile_Pic.jpg)
+![Profile Picture](images/ProfilePic.jpg)
